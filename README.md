@@ -4,18 +4,39 @@ A curated list of production-ready open source SaaS applications and platforms. 
 
 ## 📑 Table of Contents
 
+### 🏗️ Infrastructure & Backend Solutions
 - [Backend & Infrastructure](#backend--infrastructure)
+- [Infrastructure & DevOps](#infrastructure--devops)
+
+### 📝 Content & Media Management
 - [Content Management Systems](#content-management-systems)
+- [Document Management](#document-management)
+
+### 📊 Analytics, Monitoring & Operations
 - [Analytics & Monitoring](#analytics--monitoring)
+
+### 🤖 AI & Machine Learning
 - [AI & Machine Learning](#ai--machine-learning)
+
+### 🛠️ Development Tools
 - [Developer Tools](#developer-tools)
+
+### 👥 Collaboration & Communication
 - [Team Collaboration](#team-collaboration)
 - [Customer Support & Engagement](#customer-support--engagement)
+
+### 📅 Productivity & Business Management
 - [Productivity & Project Management](#productivity--project-management)
-- [Desktop Applications](#desktop-applications)
-- [Infrastructure & DevOps](#infrastructure--devops)
-- [Document Management](#document-management)
 - [Financial Tools](#financial-tools)
+
+### 💻 Desktop Applications
+- [Desktop Applications](#desktop-applications)
+
+---
+
+## 🏗️ Infrastructure & Backend Solutions
+
+*Core backend services, databases, and infrastructure tools that form the foundation of modern SaaS applications.*
 
 ## Backend & Infrastructure
 
@@ -47,6 +68,12 @@ An open-source Go backend that provides an all-in-one solution for building web 
 
 NocoDB is an open-source Airtable alternative that transforms your database into a collaborative spreadsheet. It provides an intuitive interface for managing, editing, and sharing data without requiring extensive technical expertise.
 
+---
+
+## 📝 Content & Media Management
+
+*Tools for creating, managing, and delivering content across multiple platforms and formats.*
+
 ## Content Management Systems
 
 ### [Strapi](https://github.com/strapi/strapi)
@@ -76,6 +103,12 @@ An open-source real-time API and dashboard for managing SQL database content, pr
 <img src="https://avatars.githubusercontent.com/u/62968818?v=4" width="50" height="50">
 
 A Next.js native, open-source headless CMS that installs directly in your existing app folder, offering a flexible and powerful content management solution.
+
+---
+
+## 📊 Analytics, Monitoring & Operations
+
+*Comprehensive solutions for tracking, analyzing, and monitoring application performance, user behavior, and system health.*
 
 ## Analytics & Monitoring
 
@@ -142,6 +175,12 @@ An open-source session replay platform that helps developers understand user int
 
 An open-source web analytics platform that provides full data ownership, privacy, and powerful tracking capabilities for websites.
 
+---
+
+## 🤖 AI & Machine Learning
+
+*Cutting-edge artificial intelligence and machine learning platforms for building intelligent applications and chatbots.*
+
 ## AI & Machine Learning
 
 ### [Open WebUI](https://github.com/open-webui/open-webui)
@@ -179,6 +218,12 @@ An open-source AI chat platform that integrates multiple AI models, offering enh
 
 An open-source, offline AI assistant that enables users to run language models locally with full privacy and control across multiple hardware platforms.
 
+---
+
+## 🛠️ Development Tools
+
+*Essential tools and platforms for API development, search functionality, and cloud-based development environments.*
+
 ## Developer Tools
 
 ### [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
@@ -208,6 +253,12 @@ A lightning-fast, developer-friendly search engine that enables seamless, intuit
 <img src="https://avatars.githubusercontent.com/u/37021919?v=4" width="50" height="50">
 
 A developer platform that provides on-demand, pre-configured cloud development environments that automatically integrate tools, libraries, and dependencies for software creation.
+
+---
+
+## 👥 Collaboration & Communication
+
+*Platforms for team communication, knowledge sharing, and customer engagement across multiple channels.*
 
 ## Team Collaboration
 
@@ -255,6 +306,12 @@ An open-source customer engagement platform that enables businesses to communica
 
 An open-source surveying platform that helps teams gather user feedback through customizable surveys across multiple channels, enabling better user experience insights.
 
+---
+
+## 📅 Productivity & Business Management
+
+*Solutions for scheduling, project management, social media, and financial operations to streamline business workflows.*
+
 ## Productivity & Project Management
 
 ### [Cal.com](https://github.com/calcom/cal.com)
@@ -285,6 +342,12 @@ A robust framework for developing business applications like CRM systems, offeri
 
 An AI-powered social media scheduling platform that helps businesses manage posts, build audiences, and optimize content across multiple social media platforms.
 
+---
+
+## 💻 Desktop Applications
+
+*Native desktop applications for macOS and other platforms, offering specialized functionality for developers and end-users.*
+
 ## Desktop Applications
 
 ### [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
@@ -309,6 +372,8 @@ An open-source screen recording application that allows users to easily capture,
 A macOS menu bar application that allows users to view, create, edit, and manage Apple Reminders with a simple and intuitive interface.
 
 ## Infrastructure & DevOps
+
+*Deployment platforms, monitoring tools, and infrastructure management solutions for modern DevOps workflows.*
 
 ### [Coolify](https://github.com/coollabsio/coolify)
 ![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social)
@@ -347,6 +412,8 @@ An open-source uptime and infrastructure monitoring application that tracks the 
 
 ## Document Management
 
+*Tools for document creation, signing, and management to streamline document workflows.*
+
 ### [Documenso](https://github.com/documenso/documenso)
 ![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social)
 
@@ -362,6 +429,8 @@ An open-source digital document signing platform that aims to provide a trusted,
 An open-source tool for creating professional resumes using markdown, offering live preview, theme customization, and PDF export.
 
 ## Financial Tools
+
+*Personal finance and wealth management solutions for tracking and managing financial data.*
 
 ### [Maybe](https://github.com/maybe-finance/maybe)
 ![Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social)
